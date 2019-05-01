@@ -1,0 +1,32 @@
+{
+  "name": "sm-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirun26543/smart-farm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirun26543/smart-farm/issues"
+  },
+  "homepage": "https://github.com/pirun26543/smart-farm#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.4.0",
+    "aimlparser": "^1.0.5",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase": "^5.8.1",
+    "firebase-admin": "^6.5.1",
+    "googleapis": "^37.1.0",
+    "microgear": "^0.8.1",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  }
+}

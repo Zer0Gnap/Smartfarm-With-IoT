@@ -1,0 +1,2 @@
+ErrorDocument 404 http://smartfarmkusrc.lnw.mn/myweb/error-404.html
+php_value safe_mode off
